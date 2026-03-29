@@ -27,3 +27,10 @@ Current focus is on Math, ML model algorithms and Data Analysis with Python
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/delight-aheebwa-49507734a)
+
+
+## 📊 GitHub Stats
+
+![Delight's GitHub Stats](https://github-readme-stats.vercel.app/api?username=delightaheebwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delightaheebwa&layout=compact&theme=tokyonight)
